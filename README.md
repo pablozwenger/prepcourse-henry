@@ -1,2 +1,1 @@
-# prepcourse-henry
-mod 2 henry
+Este proyecto es una prueba
